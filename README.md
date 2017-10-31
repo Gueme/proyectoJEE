@@ -1,1 +1,1 @@
-# proyectoJEE
+# Proyecto Tienda Online Java
